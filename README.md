@@ -1,4 +1,7 @@
 ### Olá! 
 
-- 🔭 Atualmente na Residência em TIC/Software Serratec 2023.1
-- 🌱 Estudando Programação Orientada a Objetos (Java)
+- 🔭 Atualmente trabalhando como Desenvolvedor de Integração Trainee na Best2Bee
+- 🌱 Estudando Quarkus
+- 🌱 Estudando RabbitMQ
+- 🌱 Estudando Kafka
+- 🌱 Estudando MongoDB
