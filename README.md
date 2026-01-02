@@ -18,5 +18,5 @@
 > *"If you wish to make an apple pie from scratch, you must first invent the universe."*
 >
 > — **Carl Sagan**
-<img src="https://github.com/user-attachments/assets/c243ef12-61a6-4409-b507-e51e05f63eaa" width="10%" alt="Icon">
+
 </div>
